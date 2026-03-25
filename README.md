@@ -8,4 +8,4 @@ We are planning on implementing non-local means, an image denoising technique, i
 We will be using CUDA C++ for this project, so we can run our code on Nvidia GPUs.
 
 ## Project Proposal
-Pretend there's a link here hahahhahahahahahahahaha
+[Temporary Overleaf Link](https://www.overleaf.com/read/gpgqmwwcrxfn#e18b1b)
