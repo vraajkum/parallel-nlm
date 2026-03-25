@@ -1,3 +1,3 @@
-# parallel-nlm
+# Parallel Non-Local Means
 
-this is a readme
+wow
